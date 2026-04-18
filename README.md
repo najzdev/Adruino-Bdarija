@@ -2,13 +2,6 @@
 
 Made by MSc Hamza Labbaalli and supervised by PhD Amine Rghioui
 
-Arduino learning repository for beginners.
-
-Simple style, practical examples, and small projects b Darija + English.
-
-Example style:
-
-> Hna ghadi nbda b LED, hiya basic component f Arduino.
 
 ---
 
