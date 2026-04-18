@@ -1,4 +1,6 @@
-# Arduino Bdarija - Beginner Friendly Learning Repo
+# Arduino Bdarija - Beginner Friendly Learning Repo 
+
+Made by MSc Hamza Labbaalli and supervised by PhD Amine Rghioui
 
 Arduino learning repository for beginners.
 
